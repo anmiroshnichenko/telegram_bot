@@ -68,7 +68,7 @@ letter = 'c'
 
 import telebot
 # bot = telebot.TeleBot("TOKEN", parse_mode=None)
-token = "7692169063:AAGdVq2Qb8NPwAIZymXUxb5T9le_f8GQZoM"
+token = ""
 
 bot = telebot.TeleBot(token)
 my_name = 'Александр'
